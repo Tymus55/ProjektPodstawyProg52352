@@ -2,7 +2,7 @@
 
 # ProjektPodstawyProg52352
 
-Aplikacja Windows Forms służąca do przeglądania statystyk piłkarzy z La Liga w sezonie 2024/2025 na podstawie danych z pliku Excel.
+Aplikacja Windows Forms służąca do przeglądania statystyk piłkarzy La Liga w sezonie 2024/2025 na podstawie danych z pliku Excel.
 
 ## Spis treści
 
