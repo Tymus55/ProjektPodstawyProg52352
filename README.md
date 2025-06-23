@@ -1,6 +1,4 @@
-Jasne! Oto propozycja pliku README.md dla Twojego repozytorium ProjektPodstawyProg52352, oparta na wytycznych z artykułu FlyNerd:
 
-README.md:
 
 # ProjektPodstawyProg52352
 
